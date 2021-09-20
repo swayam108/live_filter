@@ -1,0 +1,56 @@
+h3
+{
+  font-size: 25px !important;
+}
+canvas {
+  border:2px solid black;
+  margin-bottom: 70px;
+}
+body{
+    background-color: aquamarine;
+}
+#f1{
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  background-image: url("hat_with_beard.png");
+  background-size:contain ;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#f2{
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  background-image: url("hat_with_beard2.png");
+  background-size:contain ;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#f3{
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  background-image: url("hat_with_beard3.png");
+  background-size:contain ;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#f4{
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  background-image: url("hat_with_beard4.png");
+  background-size:contain ;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#f5{
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  background-image: url("hat_with_beard4.png");
+  background-size:contain ;
+  background-repeat: no-repeat;
+  background-position: center;
+}
